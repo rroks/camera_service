@@ -1,0 +1,8 @@
+
+@squid:S1118"Hide this public constructor.(ª³‘«üÿÿÿÿ8·èŠÔî-
+tsquid:S3457O"Q%n should be used in place of \n to produce the platform-specific line separator.(©œñÓúÿÿÿÿ8·èŠÔî-
+[
+squid:S106O"9Replace this use of System.out or System.err by a logger.(©œñÓúÿÿÿÿ8·èŠÔî-
+¤squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ª³‘«üÿÿÿÿ8·èŠÔî-
+Ssquid:S1191"5Use classes from the Java API instead of Sun classes.(Âó÷8·èŠÔî-
+csquid:S3027%"FPut single-quotes around ' ' to use the faster "indexOf(char)" method.(Ü¨˜=8·èŠÔî-
